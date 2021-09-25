@@ -1,0 +1,9 @@
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\bin\Release\DigitalClock.exe.config
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\bin\Release\DigitalClock.exe
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\bin\Release\DigitalClock.pdb
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\obj\Release\DigitalClock.Form1.resources
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\obj\Release\DigitalClock.Properties.Resources.resources
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\obj\Release\DigitalClock.csproj.GenerateResource.cache
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\obj\Release\DigitalClock.exe
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\obj\Release\DigitalClock.pdb
+C:\Users\Ethan\Desktop\Files\Other Projects\c#\DigitalClock\DigitalClock\DigitalClock\obj\Release\DigitalClock.csprojAssemblyReference.cache
